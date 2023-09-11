@@ -31,13 +31,5 @@ I love discovering new development technologies, and I love learning. My curiosi
    </p>
 
  <!-- Conecct section: END -->
- 
-  <!-- GitHub section -->
- 
- <div>
-   ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=habibahouattara&layout=compact&langs_count=10&theme=light)
-</div>
-
-<!-- GitHub section: END -->
 
 <!-- THE END -->
