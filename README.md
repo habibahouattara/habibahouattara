@@ -10,7 +10,7 @@
  <!-- About section -->
 
 ---
-✨ I'm a junior backend developer. 
+✨ I'm a junior developer. 
 
 I love discovering new development technologies, and I love learning. My curiosity leads me to look at the frontend with tools like Bootstrap.
 
@@ -19,7 +19,7 @@ I love discovering new development technologies, and I love learning. My curiosi
 - 🌱 I’m currently learning **Twig**, **Bootstrap**
 - 📫 How to reach me: [@ouattarahabibah](https://twitter.com/_habou_)
 - 💬 Ask me about: Malian food, Chelsea FC.
-- ⚡ Fun fact: I don't have fun fact about me
+- ⚡ Fun fact: I never been to a concert
 
 <!-- Conecct section -->
 
