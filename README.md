@@ -16,9 +16,9 @@ I love discovering new development technologies, and I love learning. My curiosi
 
 - 👀 I’m interested in **Symfony**, **Open Source**
 - 🔭 I’m currently working on a plant website
-- 🌱 I’m currently learning **Twig**, **Bootstrap**
+- 🌱 I’m currently discovering **Twig**, **Bootstrap**, **Tailwind CSS**
 - 📫 How to reach me: [@ouattarahabibah](https://twitter.com/_habou_)
-- 💬 Ask me about: Malian food, Chelsea FC.
+- 💬 Ask me about: Malian food.
 - ⚡ Fun fact: I never been to a concert
 
 <!-- Conecct section -->
