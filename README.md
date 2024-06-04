@@ -19,17 +19,6 @@ I love discovering new development technologies, and I love learning. My curiosi
 - 🌱 I’m currently discovering **Twig**, **Bootstrap**, **Tailwind CSS**
 - 📫 How to reach me: [@ouattarahabibah](https://twitter.com/_habou_)
 - 💬 Ask me about: Malian food.
-- ⚡ Fun fact: I never been to a concert
-
-<!-- Conecct section -->
-
-<h2>Connect with me </h3>
-    <p>
-       <a href="https://twitter.com/@ouattarahabibah/">
-         <img src="https://img.shields.io/badge/-Habibah Ouattara-informational?style=plastic&amp;labelColor=informational&amp;logo=Twitter&amp;link=https://twitter.com/Dev_180Memes" alt="Twitter Badge">
-       </a>
-   </p>
-
- <!-- Conecct section: END -->
+- ⚡ Fun fact: I never been to any concert
 
 <!-- THE END -->
