@@ -4,7 +4,7 @@
 
 <p align="center">
   <a href="mailto:ouattara.ummhabibahh@gmail.com">Email</a> •
-  <a href="https://twitter.com/ouattarahabibah">Twitter</a>
+  <a href="https://twitter.com/_habou_">Twitter</a>
 </p>
 
  <!-- About section -->
